@@ -1,1 +1,1 @@
-# java-ile-hipote-s-bulma-
+# java-ile-hipotenus bulma
